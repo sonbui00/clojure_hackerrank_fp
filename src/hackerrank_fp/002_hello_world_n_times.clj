@@ -1,4 +1,4 @@
-(ns hackrank-fp.002-hello-world-n-times)
+(ns hackerrank-fp.002-hello-world-n-times)
 
 (def hello_world_n_times
   (fn [n]

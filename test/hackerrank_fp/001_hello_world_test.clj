@@ -1,6 +1,6 @@
-(ns hackrank-fp.001-hello-world-test
+(ns hackerrank-fp.001-hello-world-test
   (:require [clojure.test :refer :all])
-  (:require [hackrank-fp.001-hello-world :refer :all]))
+  (:require [hackerrank-fp.001-hello-world :refer :all]))
 
 (defn solution-print-value []
   (with-out-str (solution)))

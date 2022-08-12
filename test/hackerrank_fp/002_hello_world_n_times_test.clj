@@ -1,6 +1,6 @@
-(ns hackrank-fp.002-hello-world-n-times-test
+(ns hackerrank-fp.002-hello-world-n-times-test
   (:require [clojure.test :refer :all]
-            [hackrank-fp.002-hello-world-n-times :refer :all]))
+            [hackerrank-fp.002-hello-world-n-times :refer :all]))
 
 (def input 4)
 (def output "Hello World\nHello World\nHello World\nHello World")

@@ -1,4 +1,4 @@
-(ns hackrank-fp.core)
+(ns hackerrank-fp.core)
 
 (defn foo
   "I don't do a whole lot."
